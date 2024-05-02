@@ -1,4 +1,4 @@
-package eu.codedsakura.fabricpvp;
+package mod.trent2087.fabricpvp;
 
 
 import dev.onyxstudios.cca.api.v3.component.ComponentKey;
